@@ -1,1 +1,36 @@
-#
+# Arquivos de ambiente e configs sensíveis
+.env
+.env.*
+*.env
+
+# Dados e volumes locais (se baixar dump, backup etc.)
+data/
+*_data/
+postgres-data/
+mongo-data/
+redis-data/
+db-data/
+dump.sql
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# Node.js ou Python (caso scripts)
+node_modules/
+__pycache__/
+*.pyc
+
+# Caches, builds e arquivos temporários
+dist/
+build/
+.cache/
+tmp/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+coverage/
