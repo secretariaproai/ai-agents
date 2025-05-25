@@ -57,7 +57,7 @@ Aqui todo mundo é bem-vindo (menos spammer).
 
 ## ⚖️ Licença
 
-[MIT License](./LICENSE) — pode usar, modificar, vender, sem drama.
+[MIT License](./LICENSE.md) — pode usar, modificar, vender, sem drama.
 
 ---
 
